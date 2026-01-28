@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683082957817",
+    "project_id": "crimenotifyapp",
+    "storage_bucket": "crimenotifyapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683082957817:android:5bf23d46d6ee021c397328",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7TI1VsVNgsY5nocF20o9mh73KX2ucIpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
