@@ -41,9 +41,7 @@ The goal is to make emergency response **faster, smarter, and data-driven**.
 
 ### Login
 
-Login
-
-![Log in](Screenshot/Log in.png)
+![Log in](Screenshot/Log%20in.png)
 
 ### Register
 
